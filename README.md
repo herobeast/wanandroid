@@ -11,6 +11,7 @@
 - 非常有用的[Json转Model插件](https://github.com/neverwoodsS/idea_dart_json_format)
 - [Flutter-Notebook](https://github.com/OpenFlutter/Flutter-Notebook),提供了很多优秀样例和Demo
 - [Flutter-plugins](https://github.com/flutter/plugins),flutter官方插件，提供了众多优秀插件
+- 掘金作者[恋猫de小郭系列文章](https://juejin.im/user/582aca2ba22b9d006b59ae68/posts)
 ## 前言
 
 - 这是一款使用Flutter写的WanAndroid客户端应用，在Android和IOS都完美运行
@@ -139,3 +140,7 @@
 - [photo_view](https://pub.flutter-io.cn/packages/photo_view)
 - [sqflite](https://pub.flutter-io.cn/packages/sqflite)
 - [path_provider ](https://pub.flutter-io.cn/packages/path_provider#-installing-tab-)
+
+## 欢迎关注我的微信公众号
+
+  ![](screenshot/wechat.jpg)
